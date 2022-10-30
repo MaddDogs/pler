@@ -148,12 +148,12 @@ let handler  = async (m, { conn, args, text, command, usedPrefix: _p, participan
 			"retailerId": `${wm}`,
 			"url": "wa.me/62881037044211"
 		},
-			"businessOwnerJid": "62881037044211@s.whatsapp.net",
+			"businessOwnerJid": "201507384088@s.whatsapp.net",
 		}
 	}), { userJid: m.chat, quoted: ftrolii })	
 	//=================================================//	
 	//# Contact
-	const fkontaak = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "@broadcast" } : {})}, message: { "contactMessage":{"displayName": `${wm}${virus}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;conn;;;\nFN:${wm}\nitem1.TEL;waid=6281991410940:6281991410940\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}  
+	const fkontaak = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "@broadcast" } : {})}, message: { "contactMessage":{"displayName": `${wm}${virus}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;conn;;;\nFN:${wm}\nitem1.TEL;waid=201507384088:201507384088\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}  
 	//=================================================//   
 	//# Text
 	const main = {
