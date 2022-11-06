@@ -55,17 +55,17 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Created By Gaara'
-global.namebot = '𝑵𝒂𝒅𝒊𝒏𝒃𝒐𝒕-𝑴𝒅'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑵𝒂𝒅𝒊𝒏𝒃𝒐𝒕'
+global.namebot = '𝑺𝒉𝒆𝒊𝒍𝒂𝒃𝒐𝒕-𝑴𝒅'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑺𝒉𝒆𝒊𝒍𝒂𝒃𝒐𝒕'
 global.media = 'https://telegra.ph/file/f628bc7b6c9e3824bbab0.jpg'
 global.watermark = wm
 global.wm2 = '☯┊Ꭰᥲʀκɴᴇꜱ複|'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑵 𝒂 𝒅 𝒊 𝒏`
+global.titlebot = `𝑺 𝒉 𝒆 𝒊 𝒍 𝒂`
 global.stickpack = '☯┊Ꭰᥲʀκɴᴇꜱ複|'
-global.stickauth = `© Nadinbot MD`
+global.stickauth = `© 𝑺𝒉𝒆𝒊𝒍𝒂𝒃𝒐𝒕 MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
